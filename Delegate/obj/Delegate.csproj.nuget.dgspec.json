@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\Delegate.csproj": {}
+    "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\Delegate.csproj": {
+    "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\Delegate.csproj",
+        "projectPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\Delegate.csproj",
         "packagesPath": "C:\\Users\\This PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\obj\\",
+        "outputPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\This PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

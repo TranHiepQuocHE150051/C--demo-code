@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b3s4sho85uRMryacw040b0rx8R0BfN2IkRIzv6bYzEmvV8ex+HUzxRDoarqdOzWTVJQ9WdZNtQb/geUFWHSA/A==",
+  "dgSpecHash": "Uagyu9My9tX7CNEepa0UBy9klMB6RjGTijQyXCPZ2D+TisJoh3d5TjU1yohxwjr4DIq+nRuF7fJmK05H7YwV1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\LambdaExpression\\LambdaExpression.csproj",
+  "projectFilePath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\LambdaExpression\\LambdaExpression.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

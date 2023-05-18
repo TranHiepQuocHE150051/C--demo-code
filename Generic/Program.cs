@@ -1,0 +1,3 @@
+﻿using Generic;
+
+TestGeneric.TestSwap();

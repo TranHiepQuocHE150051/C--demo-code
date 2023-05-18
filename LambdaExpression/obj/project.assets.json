@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exceptions\\LambdaExpression\\LambdaExpression.csproj",
+      "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\LambdaExpression\\LambdaExpression.csproj",
       "projectName": "LambdaExpression",
-      "projectPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\LambdaExpression\\LambdaExpression.csproj",
+      "projectPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\LambdaExpression\\LambdaExpression.csproj",
       "packagesPath": "C:\\Users\\This PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\LambdaExpression\\obj\\",
+      "outputPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\LambdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\This PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

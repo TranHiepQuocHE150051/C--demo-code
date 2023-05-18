@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocK1mjDaPqzZYXVAG6jijBI6xGY/WWeuvqxT/UbANV6LQ8MwV0OgRYBgYTWRvPv+SbYVnqStt/GwDPtidK6a+w==",
+  "dgSpecHash": "ESIAaX7mr6ezHBrXuzd788dIT31vscBPJ4PvIdRfzVoGN9R4zOmgT1692Mkkx2DpXEVHKNbUotlmujkd5YIfYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Delegate\\Delegate.csproj",
+  "projectFilePath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Delegate\\Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

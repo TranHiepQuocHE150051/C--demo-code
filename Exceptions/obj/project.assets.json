@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Exceptions\\Exceptions.csproj",
+      "projectUniqueName": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Exceptions\\Exceptions.csproj",
       "projectName": "Exceptions",
-      "projectPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Exceptions\\Exceptions.csproj",
+      "projectPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Exceptions\\Exceptions.csproj",
       "packagesPath": "C:\\Users\\This PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\This PC\\source\\repos\\Exceptions\\Exceptions\\obj\\",
+      "outputPath": "C:\\Users\\This PC\\source\\repos\\Exception\\C--demo-code\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\This PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
